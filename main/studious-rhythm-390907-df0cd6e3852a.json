@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "studious-rhythm-390907",
+  "private_key_id": "df0cd6e3852a3a3ff6a05145b0e77c486529bbff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTda5k8PT6z46I\n65FRx2rlju+xf0aWM2NFD1793GUdXC7mKEJbfJ/sJovhVEUyozi4O1jIA2AktQyi\n6vk1Q/lUWoamJ8DKMiJxpyrmnUr7l9qE25haZQN8Eh2o/SnI0QKtx2ZOzLhNzOvq\nFGHQYs+ZRa52qafTzEeBGXvCKY1xrgXxynfGtclO6wQ+Ti0U9tl338eNpxHJTSkq\njYnizNo7NXRwCa1nUm1sMY7kJyeJNWiS+aWehfSWQQAaNLw/XSlg9h55YSUHpszL\nf8HvCGzoNJNmHrVvxXx6/SS1kW7SfzTDsDu2gyHRskNmJQyxAUd0dViTdoUTeQlA\nieQMzJ7rAgMBAAECggEAE92ON3vEOrHNaAM1a5OKm9ah9wYIJBaKIL6bw8lKPd1f\nUeOorulA1Dx0z1ji3VR51iOhKL0vHD5erwmDGvlv+Xg9sRYH+xba/Ia3YDiZBuon\nrxaQNAx3Aiy+LkDbsDrOf8k9TRwsw7EDiBdHxH4b7FV1rpPWqUObg2nY92R+82sO\n08ckFPnEprOjZQrfDtSauPYHhNujYRm3+VA2NeZ741dCN+n98NyIdy5Wf7ScWozY\nm5VYVWsKusGgnatsXSrX3PbIrQ0g/jwLPWjfKbXRAWKAVh6qDT28oSYSuDScWnPl\n33SdKeTAmmBTBbi1biTOG6FRJ5H6zbUYJ6ezxDoBBQKBgQD89S9PhRXXzZjsT/gc\n4+U6mCFi61FV5ZgsPzNqJWeioS0UBc27Ux5zG8WNnrc7PcgiMtm3OhfWxc24exbf\nvCF4RKDlXg6aBLBkqMJEKWI2UQwSk82O8uRcMlQWhZQRs5KvkCZeropYTGzsSkmZ\nGRCHGYyGZoFcA9nk5H1BdOiA5QKBgQDWALsRk56WNgO37DDRQlhtx4Ual5KzbMxq\nRBiwsj5wX1KmSiPAkD5ffV70jY2GgCRJ8L+LtJ10tCPxoQqi4RWFMlDJ/A47gnx9\nJ/7S86wL1ooYf+ts1Lf3rAqkTL/Loyaw2G5G9JXTzmYfjKIEPfHrRKdM1zw7g8Ih\nV3Jl51MzjwKBgAlTQJs93MBH5AtSJ2NpQ1oVoaVz51uzSxjWe56+IkPsjSzfyeXN\n+qFjtLSz1S1p6abZGQ2YJqjUQfE7GGzHErTMUuIhxYgIBDixv/ejTuuRsVA+AqXy\nbli3wkHSStMcO5wdREzZQmBe8OUFGBF8yw8v8e5CeSJbQf0eLz/qf2fBAoGAN3Sz\nBWgCpZxTtFqxf9i4f6I/fNegfXyJMFR7LXbTNV2OVmdKAoGemDIt5CO2dA9K2Bpa\nGMLyNqbj1Z7M2c6IPB8AzobRzVwQFILDxzi78cljuduUT3yEO9tKWq9E2GlsAlHj\nqeGB3gRTdIOGDKFcyoHc9M2l3ypSqT829u9OIUMCgYEAzW+ITYx9B3J2EQ3Fh6tv\nyPAmaukcEWRg6ZVI5k0lJMGVDLrgRif5SL4fTw2dUnpgE0CSczxcJn6MNLNKivmw\nzhHQIEGXCCymZ3Kq0S1DxrynEJ8sILz/QB0ugu/tigYscBxPNdtt3PRoTaRQgpzU\nBG8481WVOtfIS2nnuKOM7AI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "midjourney@studious-rhythm-390907.iam.gserviceaccount.com",
+  "client_id": "103974633322316513890",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/midjourney%40studious-rhythm-390907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
